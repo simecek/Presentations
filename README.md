@@ -2,6 +2,7 @@
 
 * [Machine Learning Meetup](https://drive.google.com/open?id=1IVDMTCjrMnzGDT7O1W3xcFbNvBIbmzfNtdaWXMbkPVQ) - **Statistical vs. Deep Learning Methods for Time Series Forecasting**, [[video]](https://www.youtube.com/watch?v=mqYwy5RuSQQ), [[meetup]](https://www.meetup.com/Machine-Learning-Meetup-Brno/events/258708029/)
 * [Tech Week](https://docs.google.com/presentation/d/1gFOewfTRLQusBXPrSGeEV7T5jyMeYS4fnbwF2AHBIfQ/edit?usp=sharing) - **Deep Learning: From Zero To Hero In Two Hours** (PyTorch/fastai edition), [[code]](https://github.com/simecek/from0toheroin2h)
+* [Reading Group](https://docs.google.com/presentation/d/1s-KI0cQxS623R8VoiwqEa0zTnbfFW70ueW41ITQLvRw/edit?usp=sharing) - **fastai v1, Make NN Uncool Again** 
 
 ## 2018
 
