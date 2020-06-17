@@ -1,3 +1,7 @@
+## 2020
+* [NDR Conf invited talk](https://ndrconf.ai/speaker/petr-simecek/) - **Time Series Forecasting – a Practitioner’s View**, [[slides]](https://docs.google.com/presentation/d/1ag_6ZNgorymHTEA386rrechCUFp4m1CPfz1MbR3zhJ0/edit?usp=sharing)
+* [Labmeeting_2020_04](https://docs.google.com/presentation/d/1d_rcSlOkK_fwWUnlgZzrIr59iarCUiH-DVgu94UExHY/edit?usp=sharing) - **Language of DNA project**
+
 ## 2019
 
 * [Machine Learning Meetup](https://drive.google.com/open?id=1IVDMTCjrMnzGDT7O1W3xcFbNvBIbmzfNtdaWXMbkPVQ) - **Statistical vs. Deep Learning Methods for Time Series Forecasting**, [[video]](https://www.youtube.com/watch?v=mqYwy5RuSQQ), [[meetup]](https://www.meetup.com/Machine-Learning-Meetup-Brno/events/258708029/)
