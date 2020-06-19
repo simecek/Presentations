@@ -1,4 +1,5 @@
 ## 2020
+* [PyLadies Data Course lecture](https://naucse.python.cz/2020/pydata-praha-jaro/) - **Analýza hlavních komponent (PCA)**, [[materials]](https://naucse.python.cz/2020/pydata-praha-jaro/pydata/pca/)
 * [NDR Conf invited talk](https://ndrconf.ai/speaker/petr-simecek/) - **Time Series Forecasting – a Practitioner’s View**, [[slides]](https://docs.google.com/presentation/d/1ag_6ZNgorymHTEA386rrechCUFp4m1CPfz1MbR3zhJ0/edit?usp=sharing)
 * [Labmeeting_2020_04](https://docs.google.com/presentation/d/1d_rcSlOkK_fwWUnlgZzrIr59iarCUiH-DVgu94UExHY/edit?usp=sharing) - **Language of DNA project**
 
