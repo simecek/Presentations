@@ -1,4 +1,6 @@
 ## 2020
+* [EMBO YIP RNA Meeting](https://docs.google.com/presentation/d/1ByO5rMOc91DAFIEIw48_hLXxR1OmdCxE9B0aql-winM/edit?usp=sharing) flash talk - **Do You Speak DNA? Using Natural Language Processing (NLP) Techniques for Classification of Genomic Sequences**
+* [European Conference on Computational Biology (ECCB2020)](https://eccb2020.info/ntbt03-using-deep-learning-for-image-and-sequence-analysis/) - **Using Deep Learning For Image and Sequence Analysis**, [[slides]](https://docs.google.com/presentation/d/13S9ljSIQglEPihzcj7VoVl8ptsP9MZ_wEJ6QUnkErSk/edit?usp=sharing), [[code]](https://github.com/ML-Bioinfo-CEITEC/ECCB2020)
 * [PyLadies Data Course lecture](https://naucse.python.cz/2020/pydata-praha-jaro/) - **Analýza hlavních komponent (PCA)**, [[materials]](https://naucse.python.cz/2020/pydata-praha-jaro/pydata/pca/)
 * [NDR Conf invited talk](https://ndrconf.ai/speaker/petr-simecek/) - **Time Series Forecasting – a Practitioner’s View**, [[slides]](https://docs.google.com/presentation/d/1ag_6ZNgorymHTEA386rrechCUFp4m1CPfz1MbR3zhJ0/edit?usp=sharing)
 * [Labmeeting_2020_04](https://docs.google.com/presentation/d/1d_rcSlOkK_fwWUnlgZzrIr59iarCUiH-DVgu94UExHY/edit?usp=sharing) - **Language of DNA project**
