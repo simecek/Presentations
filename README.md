@@ -1,3 +1,6 @@
+## 2021
+* [Masaryk University](https://github.com/simecek/dspracticum2020) - **Adv. Data Science Practicum**, 12 lectures about Machine Learning (mostly TensorFlow/keras) in Python & R
+
 ## 2020
 * [ML Meetup Brno](https://docs.google.com/presentation/d/1fRX7_MZOhomXJdmU1iThMZt741NoJJLRfjR9cWLYCRg/edit?usp=sharing) flash talk - **Do You Speak DNA? Using Natural Language Processing (NLP) Techniques for Classification of Genomic Sequences**
 * [European Conference on Computational Biology (ECCB2020)](https://eccb2020.info/ntbt03-using-deep-learning-for-image-and-sequence-analysis/) - **Using Deep Learning For Image and Sequence Analysis**, [[slides]](https://docs.google.com/presentation/d/13S9ljSIQglEPihzcj7VoVl8ptsP9MZ_wEJ6QUnkErSk/edit?usp=sharing), [[code]](https://github.com/ML-Bioinfo-CEITEC/ECCB2020)
