@@ -1,5 +1,5 @@
 ## 2021
-* [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021-program/tutorials#tut5) - **Inside the ‘Black Box’: Explainable Deep Learning Models For Image and Sequence Classification**, [[slides & code]](https://github.com/ML-Bioinfo-CEITEC/ECCB2020)
+* [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021-program/tutorials#tut5) - **Inside the ‘Black Box’: Explainable Deep Learning Models For Image and Sequence Classification**, [[slides & code]](https://github.com/ML-Bioinfo-CEITEC/ECCB2021)
 * [Masaryk University](https://github.com/simecek/dspracticum2020) - **Adv. Data Science Practicum**, 12 lectures about Machine Learning (mostly TensorFlow/keras) in Python & R
 
 ## 2020
