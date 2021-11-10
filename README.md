@@ -1,5 +1,5 @@
 ## 2021
-* [Seminář z aplikované matematiky](https://www.math.muni.cz/veda-a-vyzkum/poradane-seminare/94-seminar-z-aplikovane-matematiky.html) - **Time series forecasting – a practioner’s view**, [slides](https://docs.google.com/presentation/d/1P05w9BA_N3D97C5M4euBONOTB4VagvWuq6t6Vnm-jSg/edit#slide=id.gfc287b103b_0_190)
+* [Seminář z aplikované matematiky](https://www.math.muni.cz/veda-a-vyzkum/poradane-seminare/94-seminar-z-aplikovane-matematiky.html) - **Time series forecasting – a practioner’s view**, [[slides]](https://docs.google.com/presentation/d/1P05w9BA_N3D97C5M4euBONOTB4VagvWuq6t6Vnm-jSg/edit#slide=id.gfc287b103b_0_190)
 * [Genomic Benchmarks](https://docs.google.com/presentation/d/1PTh_hn0B2n_tvZxZ9yLxQSKbJUnfprwIggFfZWokUT4/edit?usp=sharing) - Labmeeting with Katarina, David and Vlasta
 * [MolMed Seminar at CEITEC](https://docs.google.com/presentation/d/196G91T_t5jI6QOirJ3YkcGfe0s1fkC3PKFav36gMSZk/edit?usp=sharing) - The Language of DNA: Using NLP Neural Network Methods to Classify Genomic Sequences
 * [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021-program/tutorials#tut5) - **Inside the ‘Black Box’: Explainable Deep Learning Models For Image and Sequence Classification**, [[slides & code]](https://github.com/ML-Bioinfo-CEITEC/ECCB2021)
