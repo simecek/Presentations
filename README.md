@@ -1,3 +1,7 @@
+## 2022
+* [63rd Annual Drosophila Research Conference](https://abs.genetics-gsa.org/pages/drosophila22/Reports/ViewProgram/329) - **Genomic Benchmarks: A Collection of Datasets For DNA
+Sequence Classification**, [[poster]](https://docs.google.com/presentation/d/1Ay-KANDSgrdMuGd_4-Bri8eP9_6L-wjyif85t2ROSdY/edit?usp=sharing)
+
 ## 2021
 * [Seminář z aplikované matematiky](https://www.math.muni.cz/veda-a-vyzkum/poradane-seminare/94-seminar-z-aplikovane-matematiky.html) - **Time series forecasting – a practioner’s view**, [[slides]](https://docs.google.com/presentation/d/1P05w9BA_N3D97C5M4euBONOTB4VagvWuq6t6Vnm-jSg/edit#slide=id.gfc287b103b_0_190)
 * [Genomic Benchmarks](https://docs.google.com/presentation/d/1PTh_hn0B2n_tvZxZ9yLxQSKbJUnfprwIggFfZWokUT4/edit?usp=sharing) - Labmeeting with Katarina, David and Vlasta
