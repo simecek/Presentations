@@ -1,4 +1,9 @@
 ## 2022
+* [Python for Scientists](https://github.com/DataWitchcraft/python4sci) - 2-Day Python workshop at CCP, IMG AS, Vestec
+* [ECCB wrap up](https://docs.google.com/presentation/d/1RQUa57kzV1z4d00mj-Q6em0xB0hxM1YcA473T_IHJDg/edit?usp=sharing) event, my part of the presentation 
+* [ECCB 2022](https://eccb2022.org/ntb-t03/) - **Deep Learning For Biological Sequence Data: From Convolutional Neural Networks To Transformers**, [[slides & code]](https://github.com/ML-Bioinfo-CEITEC/ECCB2022)
+* [Master The Tidyverse](https://smcclatchy.github.io/2022-09-13-tidyverse/), 2-Day workshop at the Jackson Laboratory, [[materials]](https://github.com/simecek/2022-09-13-tidyverse/tree/main)
+* [Transformers](https://docs.google.com/presentation/d/1pUQeESU8lK6VG11ZfSnboe2WgVMxHo3TH5BEEeuYKM0/edit?usp=sharing), visiting Joanna Sulkowska in Warsaw
 * [ENBIK 2022](http://www.enbik.cz/enbik2022/programme/) - **Transformer Language Models for Genomic Sequences**, [[abstract]](http://www.enbik.cz/enbik2022/abs/u138_L.docx), [[slides]](https://docs.google.com/presentation/d/1EMtLZ5mLQ7A_00PFtqDY_Dys8hgvLVV2Hho3KxK51lo/edit?usp=sharing)
 * [63rd Annual Drosophila Research Conference](https://abs.genetics-gsa.org/pages/drosophila22/Reports/ViewProgram/329) - **Genomic Benchmarks: A Collection of Datasets For DNA
 Sequence Classification**, [[poster]](https://docs.google.com/presentation/d/1Ay-KANDSgrdMuGd_4-Bri8eP9_6L-wjyif85t2ROSdY/edit?usp=sharing)
