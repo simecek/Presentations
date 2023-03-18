@@ -1,4 +1,8 @@
+## 2023
+* [Could we have ChatGPT for proteins?](https://docs.google.com/presentation/d/1uxbxOl3x90eAU8_VP57f-r7fBABJHP9ywNDLl10chXw/edit?usp=sharing) - bioinf. seminar at CEITEC MU
+
 ## 2022
+* [Advances in Deep Learning in Genomics and Proteomics](https://docs.google.com/presentation/d/1U9_JsruZNQmUXJYblqezCpmd5yKlnR8nJMDZrqpLF2M/edit?usp=sharing) - Machine Learning Meetups Brno
 * [Python for Scientists](https://github.com/DataWitchcraft/python4sci) - 2-Day Python workshop at CCP, IMG AS, Vestec
 * [ECCB wrap up](https://docs.google.com/presentation/d/1RQUa57kzV1z4d00mj-Q6em0xB0hxM1YcA473T_IHJDg/edit?usp=sharing) event, my part of the presentation 
 * [ECCB 2022](https://eccb2022.org/ntb-t03/) - **Deep Learning For Biological Sequence Data: From Convolutional Neural Networks To Transformers**, [[slides & code]](https://github.com/ML-Bioinfo-CEITEC/ECCB2022)
