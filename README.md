@@ -1,5 +1,6 @@
 ## 2023
-* [Could we have ChatGPT for proteins?](https://docs.google.com/presentation/d/1uxbxOl3x90eAU8_VP57f-r7fBABJHP9ywNDLl10chXw/edit?usp=sharing) - bioinf. seminar at CEITEC MU
+* [AI v Monitoře: Jak s pomocí ChatGPT zvládnout informační záplavu](https://docs.google.com/presentation/d/1Yno4ZW27szU_D1cXJNrGAbHdgcw_K4MHPOHf1fsPB8k/edit?usp=sharing) - PR Klub
+* [Could we have ChatGPT for proteins?](https://docs.google.com/presentation/d/1uxbxOl3x90eAU8_VP57f-r7fBABJHP9ywNDLl10chXw/edit?usp=sharing) - bioinf. seminar, CEITEC MU
 
 ## 2022
 * [Advances in Deep Learning in Genomics and Proteomics](https://docs.google.com/presentation/d/1U9_JsruZNQmUXJYblqezCpmd5yKlnR8nJMDZrqpLF2M/edit?usp=sharing) - Machine Learning Meetups Brno
