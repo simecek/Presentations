@@ -1,4 +1,5 @@
 ## 2023
+* [How AI will take my job and kill us all](https://docs.google.com/presentation/d/1Ml1_5n1Toui07uZDi7HVMWFaq0dKfiE-WyIq3COcQyI/edit?usp=sharing) - 45min workshop for students at EDUCAnet Brno
 * [AI v Monitoře: Jak s pomocí ChatGPT zvládnout informační záplavu](https://docs.google.com/presentation/d/1Yno4ZW27szU_D1cXJNrGAbHdgcw_K4MHPOHf1fsPB8k/edit?usp=sharing) - PR Klub
 * [Could we have ChatGPT for proteins?](https://docs.google.com/presentation/d/1uxbxOl3x90eAU8_VP57f-r7fBABJHP9ywNDLl10chXw/edit?usp=sharing) - bioinf. seminar, CEITEC MU
 
