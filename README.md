@@ -1,4 +1,5 @@
 ## 2024
+* **Unveiling the Entangled Landscape of Artificial Knotted Proteins**, [[short paper]](https://openreview.net/forum?id=WozggTpEmv) at ICLR 2024 [GEM workshop](https://www.gembio.ai/)
 * **Finetuning Open-Source LLMs to Small Languages** workshop at [ML Prague](https://www.mlprague.com/) 2024: [[GitHub repo with exercises]](https://github.com/monitora-media/mlprague2024), [[synczech50]](https://huggingface.co/datasets/simecek/synczech50) bechmark, [[mlprague]](https://huggingface.co/datasets/simecek/mlprague) benchmark, [[cswikimistral_0.1]](https://huggingface.co/simecek/cswikimistral_0.1) model at HuggingFace hub, [[my slides]](https://docs.google.com/presentation/d/1wyVwD4CwWV9fpiqGyoyeSIk0JpmPeb8HWg40gSMBOM4/edit?usp=sharing)
 * [Knots & Proteins Workshop](https://knots.splet.arnes.si/) Ljublana - **Knot or Not? Sequence-Based Identification of Knotted Proteins With Deep Learning**, [[slides]](https://docs.google.com/presentation/d/1D7p-WUY9_al5BuTd9p7qcDA3gizyF6NpAIIMzObVl0Q/edit?usp=sharing)
 
