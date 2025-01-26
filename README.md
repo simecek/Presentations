@@ -1,3 +1,6 @@
+## 2025
+* RECETOX Seminar, **How Do Protein Prediction Tools Handle New Structures? A Comparison of AlphaFold2, ESMFold, and OmegaFold** [[slides]](https://docs.google.com/presentation/d/1-6iFogf3hkx3SlcxrIGFAFiJH-qCxYzgbJOW2ZcvWJI/edit?usp=sharing)
+
 ## 2024
 * [Pyvo Praha](https://pyvo.cz/praha-pyvo/2024-11/), **DIY AI: Czech Language and Large Language Models**, [[slides]](https://docs.google.com/presentation/d/10iva_2ADl_YrttVGQw9BytBxjUpby9qyGFgTO4YgWyY/edit?usp=sharing)
 * **Možnosti a úskalí využití velkých jazykových modelů ve světě mediálního monitoringu**, Seznam Meetup [Vývoj a praktické použití generativních jazykových modelů](https://www.seznamakce.cz/vyvoj-a-prakticke-pouziti-generativnich-jazykovych-modelu) na CIIRC ČVUT v rámci [Dnů AI](https://www.dny.ai/), [[slajdy]](https://docs.google.com/presentation/d/1Wzws9q2f_AcxApUzWX4Q6KQ4hWKIM7MeZJl49NNio8U/edit?usp=sharing), [[MiniCzechBenchmark]](https://github.com/simecek/MiniCzechBenchmark)
