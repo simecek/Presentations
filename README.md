@@ -1,4 +1,7 @@
 ## 2025
+* [Knots & Proteins Workshop,  Bologna](https://events.unibo.it/knotsprotein), **Tying and Untying: Entangled Landscape of Artificial Knotted Proteins** [[slides]](https://docs.google.com/presentation/d/1YfuDwaRWXantz8WN46sUcmoufRsVqzr0hFdllXiB2zA/edit?usp=sharing)
+* Mediabord, **Velké jazykové modely** [[slides]](https://gamma.app/docs/Velke-jazykove-modely-fwb2roy5xzz3teb)
+* [PyConAT](https://pycon.pyug.at/talks/from-ml-miracles-to-ai-trash-taming-the-bullshit-in-llms/), **From ML Miracles to AI Trash: Taming the Bullshit in LLMs** [[slides]](https://gamma.app/docs/From-ML-Miracles-to-AI-Rubbish-kttb6ns42nksxaf)
 * RECETOX Seminar, **How Do Protein Prediction Tools Handle New Structures? A Comparison of AlphaFold2, ESMFold, and OmegaFold** [[slides]](https://docs.google.com/presentation/d/1-6iFogf3hkx3SlcxrIGFAFiJH-qCxYzgbJOW2ZcvWJI/edit?usp=sharing)
 
 ## 2024
