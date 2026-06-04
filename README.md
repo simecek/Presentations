@@ -1,3 +1,6 @@
+## 2026
+* [Agentic AI 2026: Next-Generation AI Agent Engineering](https://www.datascript.cz/it-konference/agentic-ai-2026-next-generation-ai-agent-engineering/), **Od autora k architektovi ohrad: Když agenti píší kód, kdo je odpovědný za chyby?** [[slides]](https://docs.google.com/presentation/d/1W7fFyCLYgAUyIKTAOMyhdP5H6jk9luqwVRoVci5EBFw/edit?usp=sharing)
+
 ## 2025
 * [Knots & Proteins Workshop,  Bologna](https://events.unibo.it/knotsprotein), **Tying and Untying: Entangled Landscape of Artificial Knotted Proteins** [[slides]](https://docs.google.com/presentation/d/1YfuDwaRWXantz8WN46sUcmoufRsVqzr0hFdllXiB2zA/edit?usp=sharing)
 * Mediabord, **Velké jazykové modely** [[slides]](https://gamma.app/docs/Velke-jazykove-modely-fwb2roy5xzz3teb)
