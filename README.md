@@ -1,4 +1,5 @@
 ## 2026
+* [EDUC AI-Enhanced Bioinformatics](https://courses.educalliance.eu/course/625), **From next-token prediction to bioinformatics agents** [[slides]](https://docs.google.com/presentation/d/1bVurVyO4Y-Q-TnuORzpy-eZDzE9cbiOpFhqOseY5aeE/edit?usp=sharing)
 * [Agentic AI 2026: Next-Generation AI Agent Engineering](https://www.datascript.cz/it-konference/agentic-ai-2026-next-generation-ai-agent-engineering/), **Od autora k architektovi ohrad: Když agenti píší kód, kdo je odpovědný za chyby?** [[slides]](https://docs.google.com/presentation/d/1W7fFyCLYgAUyIKTAOMyhdP5H6jk9luqwVRoVci5EBFw/edit?usp=sharing)
 
 ## 2025
